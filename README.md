@@ -4,6 +4,8 @@
 
 # Standalone JS Playground
 
+![CleanShot 2024-04-17 at 13 21 40](https://github.com/WBSCodingSchool/Standalone-JS-Playground/assets/19370560/a6fb7362-89a0-47df-8a3a-04d3ba278631)
+
 ## About this tiny project
 
 JavaScript is a powerful language that runs natively in the browser and can interact with whatever is on the page. However, it can be a bit tricky to see it in action without that interaction with the browser. This is where this playground comes in, we are doing some ✨🪄magic🪄✨ to show you the output of your code in the browser.
