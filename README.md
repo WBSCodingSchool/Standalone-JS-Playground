@@ -1,3 +1,7 @@
+<div style='background-color:#f4eeee; padding: 1rem;'>
+    <img style='display:block; height:80px; margin: 0 auto;' src="/assets/images/logo.svg" alt="WBS Coding School" />
+</div>
+
 # Standalone JS Playground
 
 ## About this tiny project
