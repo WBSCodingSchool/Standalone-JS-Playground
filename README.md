@@ -25,7 +25,7 @@ git clone git@github.com:WBSCodingSchool/Standalone-JS-Playground.git name-of-ex
 - If you are working on exercises on our online [Playground](https://playground.wbscod.in/)
 
   - Click the download button
-
+![Screenshot 2024-04-17 at 13 05 21](https://github.com/WBSCodingSchool/Standalone-JS-Playground/assets/19370560/1d777b42-876e-4904-8630-fcacdde24de0)
   - Extract the `script.js` and `instructions.md` file from the downloaded `.zip`
   - Copy the contents of said file into `index.js`
   - Copy the `instructions.md` file into the root of your `name-of-exercise` directory
